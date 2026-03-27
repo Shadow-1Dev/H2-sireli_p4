@@ -17,7 +17,7 @@ Custom single-player mod for H1-Mod / Call of Duty: Modern Warfare Remastered.
 Call of Duty Modern Warfare Remastered\
   h1-mod.exe
   mods\
-    h2_sireli_p3\
+    h2_sireli_p4\
       info.json
       mod.ff
       mod.pak
@@ -29,14 +29,14 @@ Call of Duty Modern Warfare Remastered\
 8. Launch the mod with `sireli_p3.bat` or run:
 
 ```bat
-h1-mod.exe -singleplayer -mod "mods\h2_sireli_p3"
+h1-mod.exe -singleplayer -mod "mods\h2_sireli_p4"
 ```
 
 ## Notes
 
 - `mod.ff` and `mod.pak` are tracked with Git LFS.
 - If you downloaded a source ZIP and either file is only a tiny text pointer, get the real binary files from a proper Git LFS checkout or your release package before launching the mod.
-- `sireli_p3.bat` should be placed next to `h1-mod.exe` before you run it.
+- `sireli_p4.bat` should be placed next to `h1-mod.exe` before you run it.
 
 ## License
 
