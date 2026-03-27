@@ -26,7 +26,7 @@ Call of Duty Modern Warfare Remastered\
 ```
 
 7. Move `sireli_p3.bat` next to `h1-mod.exe` in the main game folder.
-8. Launch the mod with `sireli_p3.bat` or run:
+8. Launch the mod with `sireli_p4.bat` or run:
 
 ```bat
 h1-mod.exe -singleplayer -mod "mods\h2_sireli_p4"
