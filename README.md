@@ -10,7 +10,7 @@ Custom single-player mod for H1-Mod / Call of Duty: Modern Warfare Remastered.
 2. Extract the files if you downloaded a ZIP archive.
 3. Open your game folder that contains `h1-mod.exe`.
 4. Open the `mods` folder inside the game directory. If it does not exist, create it manually.
-5. Copy the full folder `h2_sireli_p3` into the `mods` folder.
+5. Copy the full folder `h2_sireli_p4` into the `mods` folder.
 6. Make sure the final layout looks like this:
 
 ```text
