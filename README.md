@@ -1,8 +1,8 @@
 ![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red) ![Build](https://img.shields.io/badge/Build-passing-brightgreen?logo=github)
 
-# H2 Sireli P5
+# H2 Sireli P4
 
-`H2 Sireli P5` is a custom single-player mod for H1-Mod / Call of Duty: Modern Warfare Remastered.
+`H2 Sireli P4` is a custom single-player mod for H1-Mod / Call of Duty: Modern Warfare Remastered.
 
 ## What This Project Contains
 
