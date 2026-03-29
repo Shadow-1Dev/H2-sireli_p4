@@ -12,9 +12,6 @@ precache_xm25_assets()
 {
     // Force the XM25 view/world models in early to reduce first-use invisibility.
     precacheitem("m14_scoped_silencer");
-    precachemodel("viewmodel_xm25");
-    precachemodel("weapon_xm25");
-    precachemodel("projectile_m203grenade");
 }
 
 give_loadout()
